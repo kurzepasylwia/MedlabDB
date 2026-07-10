@@ -33,7 +33,6 @@ st.set_page_config(
 # ─────────────────────────────────────────────────────────────
 # CSS — taki sam styl jak w app.py
 # Kopiujemy go do każdej strony żeby wygląd był spójny
-# W większych projektach trzyma się to w osobnym pliku utils.py
 # ─────────────────────────────────────────────────────────────
 
 st.markdown("""

@@ -145,7 +145,7 @@ hr {
     font-weight: 600;
 }
 </style>
-""", unsafe_allow_html=True)
+""", unsafe_allow_html=True) #streamlit normalnie blokuje html
 
 # ─────────────────────────────────────────────────────────────
 # SIDEBAR — lewy panel
