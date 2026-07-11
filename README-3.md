@@ -120,7 +120,7 @@ pip install -r requirements.txt
 python3 database.py
 ```
 
-Powinnaś zobaczyć:
+Pojawi się komunikat:
 ```
 ✅ Baza zainicjalizowana — dane testowe wstawione.
 ```
